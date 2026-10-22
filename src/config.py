@@ -1,4 +1,4 @@
-class DevelopmentConfig:
+class DevelopmentConfig():
     DEBUG=True
     MYSQL_HOST='localhost'
     MYSQL_USER='arturo'
